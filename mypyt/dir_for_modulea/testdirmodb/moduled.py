@@ -1,0 +1,3 @@
+x='lol'
+print(x)
+
